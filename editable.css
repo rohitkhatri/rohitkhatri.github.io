@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700|Open+Sans:400,800);
+@import url('https://fonts.googleapis.com/css?family=Frijole');
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+code {
+  color:#31708f;
+}
