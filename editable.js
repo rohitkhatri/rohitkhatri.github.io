@@ -1,5 +1,3 @@
-// import commands from '.commands.json'
-
 const commands = [{
 	"cmd": "bold",
 	"icon": "bold"
